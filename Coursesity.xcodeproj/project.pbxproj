@@ -11,6 +11,8 @@
 		7CBFA3C9278BCB0600240D5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBFA3C8278BCB0600240D5C /* ContentView.swift */; };
 		7CBFA3CB278BCB0800240D5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CBFA3CA278BCB0800240D5C /* Assets.xcassets */; };
 		7CBFA3CE278BCB0800240D5C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CBFA3CD278BCB0800240D5C /* Preview Assets.xcassets */; };
+		7CBFA3D5278BCF7800240D5C /* MockTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBFA3D4278BCF7800240D5C /* MockTest.swift */; };
+		7CBFA3D7278BD57400240D5C /* MockTestDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBFA3D6278BD57400240D5C /* MockTestDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		7CBFA3C8278BCB0600240D5C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7CBFA3CA278BCB0800240D5C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CBFA3CD278BCB0800240D5C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7CBFA3D4278BCF7800240D5C /* MockTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockTest.swift; sourceTree = "<group>"; };
+		7CBFA3D6278BD57400240D5C /* MockTestDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockTestDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				7CBFA3C8278BCB0600240D5C /* ContentView.swift */,
 				7CBFA3CA278BCB0800240D5C /* Assets.xcassets */,
 				7CBFA3CC278BCB0800240D5C /* Preview Content */,
+				7CBFA3D4278BCF7800240D5C /* MockTest.swift */,
+				7CBFA3D6278BD57400240D5C /* MockTestDetailView.swift */,
 			);
 			path = Coursesity;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				7CBFA3C9278BCB0600240D5C /* ContentView.swift in Sources */,
 				7CBFA3C7278BCB0600240D5C /* CoursesityApp.swift in Sources */,
+				7CBFA3D5278BCF7800240D5C /* MockTest.swift in Sources */,
+				7CBFA3D7278BD57400240D5C /* MockTestDetailView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
